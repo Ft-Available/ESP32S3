@@ -1,7 +1,7 @@
 #  自制的ESP32S3开发板
- 自制的ESP32S3开发板
+板载一个用户led,两个用户按键（一个和IO0共用）
  
- 
+板载一个ST7789V 135x240 lcd
  
  
 ![72272874affbe9b0a32d5a60ad34998](https://user-images.githubusercontent.com/66466560/177172034-4c75aeb1-d812-4bab-b28f-19e6d1e789ac.jpg)
